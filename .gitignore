@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Environment variables
+.env
+.env.local
